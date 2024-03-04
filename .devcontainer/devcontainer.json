@@ -1,0 +1,5 @@
+{
+	"name": "Default Debian Linux",
+	"image": "debian:bookworm-slim",
+	"features": {}
+}
